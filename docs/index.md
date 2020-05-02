@@ -1,18 +1,22 @@
-## Coffee and tea 
+![flyer](flyer.png){: style="float: right; width: 300px"}
+
+# From Yindee
 
 [EN] Fair tea and coffee from Thailand. For more information, please see https://yindee.no 
 
 <hr />
 
-![flyer](flyer.png){: style="float: right; width: 100px"}
 
 [NO] 
 
+## Coffee Roasters
 
 TODO txt...
 
 ..Vipps-butikk - KAFFE PLAN B
 ..Kaffe - medium og dark roast
+
+## Tea Republic
 
 ..Te - mange typer løsblad-te tilgjengelig
 
