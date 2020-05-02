@@ -8,6 +8,8 @@
 
 <hr />
 
+![flyer](flyer.png){: style="float: right"}
+
 [NO] 
 
 
@@ -30,4 +32,3 @@ sortert stigende etter pris..
 ..organic assam tea - white
 
 <a href="flyer.pdf">Flyer</a> i PDF-format
-![flyer](flyer.png)
