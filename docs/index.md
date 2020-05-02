@@ -2,7 +2,7 @@
 
 ## Coffee and tea 
 
-<img src="flyer.png" {style="float: right"}
+<img src="flyer.png" style="float: right" />
 
 [EN] Fair tea and coffee from Thailand. For more information, please see https://yindee.no 
 
