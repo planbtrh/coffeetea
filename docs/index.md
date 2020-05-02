@@ -1,4 +1,8 @@
-![flyer](flyer.png){style="float: right"}
+# Yindee Republic
+
+## Coffee and tea 
+
+<img src="flyer.png" {style="float: right"}
 
 [EN] Fair tea and coffee from Thailand. For more information, please see https://yindee.no 
 
@@ -26,3 +30,4 @@ sortert stigende etter pris..
 ..organic assam tea - white
 
 <a href="flyer.pdf">Flyer</a> i PDF-format
+![flyer](flyer.png)
