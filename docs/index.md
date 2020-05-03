@@ -1,4 +1,4 @@
-![flyer](flyer.png){: style="float: right; width: 400px"}
+![flyer](flyer.png){: style="float: right; width: 400px; margin: 10px"}
 
 # From Yindee
 
@@ -20,13 +20,10 @@ Mulige ulike typer, sortert stigende etter pris:
 
 * organic assam - black, green, oolong  
 * authentic (chineese) oolong 
-* chrysanthemum (quite sweet; 
-  nb: avoid with some health conditions; 
-  good for cold brew or ice tea)
+* chrysanthemum (litt søt ; nb: unngå ved noen helsetilstander ; bra for kald-brygg eller is-te)
 * pandan leaf
+* organic assam tea - 5 colour, yellow
+* jungle tea - green, oolong, black
+* organic assam tea - white
 
-..organic assam tea - 5 colour, yellow
-..jungle tea - green, oolong, black
-..organic assam tea - white
-
-<a href="flyer.pdf">Flyer</a> i PDF-format
+*(<a href="flyer.pdf">Bilde/ Flyer</a> i PDF-format)*
