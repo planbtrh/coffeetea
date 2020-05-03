@@ -6,28 +6,27 @@
 
 ## [NO] Coffee Roasters
 
-TODO txt...
+Fersk-brent kaffe, hhv medium og mørk-brent.
 
-..Vipps-butikk - KAFFE PLAN B
-..Kaffe - medium og dark roast
+Betaling via Vipps-butikk, etter avtale, til KAFFE PLAN B.
 
 ## Tea Republic
 
-..Te - mange typer løsblad-te tilgjengelig
+Mange typer løsblad-te tilgjengelig!
 
-Starter opp i disse dager, ta kontakt ved interesse.
+Starter opp i disse dager, ta kontakt med Ingvald/ Plan B ved interesse.
 
-<pre>
-sortert stigende etter pris..
-..organic assam - black, green, oolong  
-..authentic (chineese) oolong 
-..chrysanthemum (quite sweet; 
+Mulige ulike typer, sortert stigende etter pris:
+
+* organic assam - black, green, oolong  
+* authentic (chineese) oolong 
+* chrysanthemum (quite sweet; 
   nb: avoid with some health conditions; 
   good for cold brew or ice tea)
-..pandan leaf
+* pandan leaf
+
 ..organic assam tea - 5 colour, yellow
 ..jungle tea - green, oolong, black
 ..organic assam tea - white
-</pre>
 
 <a href="flyer.pdf">Flyer</a> i PDF-format
