@@ -1,6 +1,4 @@
-<a href="flyer.png">
 ![flyer](flyer.png){: style="float: right; width: 400px; margin: 10px"}
-</a>
 
 # From Yindee
 
@@ -28,4 +26,4 @@ Mulige ulike typer, sortert stigende etter pris:
 * jungle tea - green, oolong, black
 * organic assam tea - white
 
-*(<a href="flyer.pdf">Bilde/ Flyer</a> i PDF-format)*
+*(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*
