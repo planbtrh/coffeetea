@@ -12,7 +12,7 @@ Betaling via Vipps-butikk, etter avtale, til KAFFE PLAN B.
 
 ## Tea Republic
 
-Mange typer løsblad-te tilgjengelig!
+Mange typer løsblad-te tilgjengelig! Ved å kjøpe te så støtter du på samme måte som kaffe, som beskrevet i flyer.
 
 Starter opp i disse dager, ta kontakt med Ingvald/ Plan B ved interesse.
 
