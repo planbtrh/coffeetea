@@ -1,4 +1,6 @@
+<a href="flyer.png">
 ![flyer](flyer.png){: style="float: right; width: 400px; margin: 10px"}
+</a>
 
 # From Yindee
 
