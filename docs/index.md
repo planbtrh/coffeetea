@@ -1,15 +1,10 @@
-![flyer](flyer.png){: style="float: right; width: 300px"}
+![flyer](flyer.png){: style="float: right; width: 400px"}
 
 # From Yindee
 
-[EN] Fair tea and coffee from Thailand. For more information, please see https://yindee.no 
+[EN] Fair tea and coffee from Thailand. [yindee.no](https://yindee.no) has more information. 
 
-<hr />
-
-
-[NO] 
-
-## Coffee Roasters
+## [NO] Coffee Roasters
 
 TODO txt...
 
