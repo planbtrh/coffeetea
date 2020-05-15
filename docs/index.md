@@ -8,7 +8,7 @@
 
 Fersk-brent kaffe, hhv medium og mørk-brent.
 
-Betaling via Vipps-butikk, etter avtale, til KAFFE PLAN B.
+Betaling via Vipps-butikk, etter avtale, til KAFFE PLAN B. (Kvalifiserer også til skattefradrag for gave til frivillige organisasjoner.)
 
 ## Tea Republic
 
