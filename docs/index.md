@@ -6,24 +6,16 @@
 
 ## [NO] Coffee Roasters
 
-Fersk-brent kaffe, hhv medium og mørk-brent.
-
-Betaling via Vipps-butikk, etter avtale, til KAFFE PLAN B. 
+Fersk kaffe, på flere måter: Nylig høstet, fersk-brent, males opp selv. Ulike brent-grader tilgjengelig.
 
 ## Tea Republic
 
-Mange typer løsblad-te tilgjengelig! Ved å kjøpe te så støtter du på samme måte som kaffe, som beskrevet i flyer.
+Flere typer løsblad-te tilgjengelig, inkludert grønn, svart, oolong.
 
-Starter opp i disse dager, ta kontakt med Ingvald/ Plan B ved interesse.
+---
 
-Mulige ulike typer, sortert stigende etter pris:
+Arbeidet med kaffe og te hjelper Yindee å støtte fattige i Nord-Thailand og menighetsarbeid i Rayong. Vil du være med å støtte? Vipps: KAFFE PLAN B. 
 
-* organic assam - black, green, oolong  
-* authentic (chineese) oolong 
-* chrysanthemum (litt søt ; nb: unngå ved noen helsetilstander ; bra for kald-brygg eller is-te)
-* pandan leaf
-* organic assam tea - 5 colour, yellow
-* jungle tea - green, oolong, black
-* organic assam tea - white
+Spørsmål/ interesse: Ta kontakt med Ingvald/ Plan B.
 
 *(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*
