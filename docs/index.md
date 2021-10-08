@@ -2,7 +2,8 @@
 
 # From Yindee
 
-[EN] Fair tea and coffee from Thailand. [yindee.no](https://yindee.no) has more information. A good way to support this work - _and_ get great coffee and/or tea regularly - is to start a subscription! (Contact: https://facebook.com/YindeeTH/ )
+[EN] Fair tea and coffee from Thailand. [yindee.no](https://yindee.no) has more information. A good way to support this work - _and_ get great coffee and/or tea regularly - is to start a subscription! (Contact: 
+[Yindee at FB](https://facebook.com/YindeeTH/))
 
 ## [NO] Coffee Roasters
 
