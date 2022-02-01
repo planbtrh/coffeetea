@@ -16,3 +16,4 @@ TODO lenke til fb-side som kontakt
 * vil du støtte Yindee/ Rayong Vineyard generelt? 
   * donasjoner kan vippses til plan b arbeid thailand (TODO vipps-nr)
   * dette vil bidra til å støtte Rayong Vineyard, fattige i nord, trengende i Rayong, med mer
+  * TODO gåve-skattefradrag, ev lenke til skatteetaten ref inkl >=500 for å få 
