@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 @media screen and (min-width: 64em){
- .main-content, wrapper {
+ .main-content, .wrapper {
       max-width: 90%;
 	 padding: 1rem;
  }
@@ -17,5 +17,5 @@
 }
 
 body {
-  font-size: 100%
+  font-size: medium;
 }
