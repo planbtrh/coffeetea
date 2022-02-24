@@ -1,5 +1,5 @@
 
-<smaller>*[planb.coffee](https://www.planb.coffee/)*</smaller>
+*<smaller>[planb.coffee](https://www.planb.coffee/)</smaller>*
 
 ![coffee beans](https://source.unsplash.com/all/?coffee-beans){: style="float: right; width: 150px; margin: 10px"}
 
@@ -11,7 +11,7 @@
 * donate
 
 Contact
-[Yindee at FB](https://facebook.com/YindeeTH/)! Both bank transfer and paypal should be possible.
+[Yindee at FB](https://facebook.com/YindeeTH/) - both bank transfer and paypal is possible.
 
 *([Why support?](support-why.md))*
 
@@ -32,4 +32,4 @@ Vil du støtte Yindee Coffee/ Rayong Vineyard generelt?
 ---
 *([Hvorfor støtte?](support-why.md))*
 
-<small>*(Picture: random "coffee beans" image from Unsplash)*</small>
+*<small>(Picture: random "coffee beans" image from Unsplash)</small>*

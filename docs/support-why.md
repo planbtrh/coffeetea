@@ -1,4 +1,4 @@
-<smaller>*[planb.coffee](https://www.planb.coffee/)*</smaller>
+*<smaller>[planb.coffee](https://www.planb.coffee/)</smaller>*
 # Support the good work - why
 
 ![flyer](flyer.png){: style="float: right; width: 300px; margin: 10px"}
