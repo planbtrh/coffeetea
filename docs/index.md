@@ -26,4 +26,4 @@ Arbeidet med kaffe og te [hjelper Yindee/ Rayong Vineyard å støtte](support-wh
 Spørsmål/ interesse: Ta kontakt med Ingvald/ Plan B.
 
 ---
-<small>*(Picture: random "coffee beans" image from Unsplash)*</small>
+<footer>(Picture: random "coffee beans" image from Unsplash)</footer>

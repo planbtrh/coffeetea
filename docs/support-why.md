@@ -1,4 +1,4 @@
-*<smaller>[planb.coffee](https://www.planb.coffee/)</smaller>*
+<em><smaller><a href="https://www.planb.coffee">planb.coffee</a></smaller></em>
 # Support the good work - why
 
 ![flyer](flyer.png){: style="float: right; width: 300px; margin: 10px"}
@@ -23,4 +23,4 @@ Støtte til Yindee Coffee/ Rayong Vineyard vil bidra til å støtte fattige i no
 
  *[Hvordan støtte?](support-how.md)*
 
- <smaller>*(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*</smaller>
+ <footer></em>(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)</em></footer>

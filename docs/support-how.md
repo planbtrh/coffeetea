@@ -1,5 +1,5 @@
 
-*<smaller>[planb.coffee](https://www.planb.coffee/)</smaller>*
+<em><smaller><a href="https://www.planb.coffee">planb.coffee</a></smaller></em>
 
 ![coffee beans](https://source.unsplash.com/all/?coffee-beans){: style="float: right; width: 150px; margin: 10px"}
 
@@ -32,4 +32,4 @@ Vil du støtte Yindee Coffee/ Rayong Vineyard generelt?
 ---
 *([Hvorfor støtte?](support-why.md))*
 
-*<small>(Picture: random "coffee beans" image from Unsplash)</small>*
+<em><small>(Picture: random "coffee beans" image from Unsplash)</small></em>

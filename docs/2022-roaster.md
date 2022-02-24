@@ -1,4 +1,4 @@
-*<smaller>[planb.coffee](https://www.planb.coffee/)</smaller>*
+<em><smaller><a href="https://www.planb.coffee">planb.coffee</a></smaller></em>
 # Støtte kjøp av ny kaffebrenner?
 
 Yindee Coffee/ Rayong Vineyard har ikke som mål å tjene mest mulig penger. I korona-perioden har det blitt trangere økonomisk, men i det siste har omsetningen økt en del.
