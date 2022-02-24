@@ -1,11 +1,15 @@
-![flyer](flyer.png){: style="float: right; width: 400px; margin: 10px"}
-
 # From Yindee
 
-[EN] Fair tea and coffee from Thailand. [yindee.no](https://yindee.no) has more information. Support this work - _and_ get great coffee and/or tea! Contact:
-[Yindee at FB](https://facebook.com/YindeeTH/).
+![coffee beans](https://source.unsplash.com/all/?coffee-beans){: style="float: right; width: 200px; margin: 10px"}
 
-## [NO] Coffee Roasters
+![[EN]](assets/english.webp){: style="width: 25px; height: 14px"}
+
+Fair tea and coffee from Thailand.
+[Support this work](support-why.md) - _and_ get great coffee and/or tea!
+
+![[NO]](assets/norsk.png){: style="width: 25px; height: 14px"}
+
+## Coffee Roasters
 
 Fersk kaffe, på flere måter: Nylig høstet, fersk-brent, males opp selv. Ulike brent-grader tilgjengelig.
 
@@ -15,9 +19,8 @@ Flere typer løsblad-te tilgjengelig, inkludert grønn, svart, oolong.
 
 ---
 
-Arbeidet med kaffe og te hjelper Yindee å støtte fattige i Nord-Thailand og menighetsarbeid i Rayong.
-Vil du være med på å støtte? Vipps: KAFFE PLAN B.
+Arbeidet med kaffe og te [hjelper Yindee/ Rayong Vineyard å støtte](support-why.md) fattige i Nord-Thailand og menighets- og frivillig arbeid i Rayong.
+
+[Vil du være med på å støtte?](support-how.md)
 
 Spørsmål/ interesse: Ta kontakt med Ingvald/ Plan B.
-
-*(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*
