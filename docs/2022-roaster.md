@@ -1,3 +1,6 @@
+title: Støtt det gode arbeidet!
+description: Vil du støtte kjøp av større kaffebrenner som frigjør tid til det gode arbeidet?
+
 <em><smaller><a href="https://www.planb.coffee">planb.coffee</a></smaller></em>
 # Støtte kjøp av ny kaffebrenner?
 
