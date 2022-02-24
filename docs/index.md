@@ -1,6 +1,6 @@
 # From Yindee
 
-![coffee beans](https://source.unsplash.com/all/?coffee-beans){: style="float: right; width: 150px; margin: 10px"}
+![coffee beans](https://source.unsplash.com/all/?coffeebeans){: style="float: right; width: 150px; margin: 10px"}
 
 ![[EN]](assets/english.webp){: style="width: 25px; height: 14px"}
 
@@ -11,7 +11,7 @@ Fair tea and coffee from Thailand.
 
 ## Coffee Roasters
 
-Fersk kaffe, på flere måter: Nylig høstet, fersk-brent, males opp selv. Ulike brent-grader tilgjengelig.
+Kaffe som er fersk på flere måter: Nylig høstet, fersk-brent, males opp selv. Ulike brent-grader tilgjengelig.
 
 ## Tea Republic
 
@@ -26,4 +26,4 @@ Arbeidet med kaffe og te [hjelper Yindee/ Rayong Vineyard å støtte](support-wh
 Spørsmål/ interesse: Ta kontakt med Ingvald/ Plan B.
 
 ---
-<footer>(Picture: random "coffee beans" image from Unsplash)</footer>
+<em><small>(Picture: random coffee beans image from Unsplash)</small></em>
