@@ -1,4 +1,4 @@
-[planb.coffee](https://www.planb.coffee/)
+*[planb.coffee](https://www.planb.coffee/)*
 # Support the good work - why
 
 ![flyer](flyer.png){: style="float: right; width: 300px; margin: 10px"}
@@ -11,9 +11,10 @@
 
 **You support community work in Rayong**, Thailand. Coffee roaster and pastor Jeff and his family [started Yindee Coffee Roaster and a café in 2012](https://yindee.no/index.php/about-yindee-coffee-roasters), aiming to both support coffee farmers in the north and support local the community in Rayong.
 
-
 ![[NO]](assets/norsk.png){: style="width: 32px"}
 
-Støtte til Yindee/ Rayong Vineyard vil bidra til å støtte fattige i nord, trengende i Rayong, med mer. 
+## Hvorfor støtte
 
-*(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)
+Støtte til Yindee Coffee/ Rayong Vineyard vil bidra til å støtte fattige i nord, trengende i Rayong, med mer.
+
+*(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*
