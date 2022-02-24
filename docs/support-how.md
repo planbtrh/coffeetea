@@ -1,7 +1,7 @@
 
-*[planb.coffee](https://www.planb.coffee/)*
+<smaller>*[planb.coffee](https://www.planb.coffee/)*</smaller>
 
-![coffee beans](https://source.unsplash.com/all/?coffee-beans){: style="float: right; width: 100px; margin: 10px"}
+![coffee beans](https://source.unsplash.com/all/?coffee-beans){: style="float: right; width: 150px; margin: 10px"}
 
 ![[EN]](assets/english.webp){: style="width: 25px; height: 14px"}
 
