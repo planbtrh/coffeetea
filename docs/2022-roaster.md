@@ -10,3 +10,5 @@ Nå i februar/ mars har det dukket opp en mulighet til å kjøpe en større bruk
 ![kaffebrenner](2022-roaster.jpg)
 
 Du kan [støtte på flere måter](support-how.md), inkludert å VIPPSe til nr 131085, Plan B Arbeid Thailand. Dersom vi kommer opp i 170 000 Nkr vil dette dekke kaffebrenneren i bildet over.
+
+Ta gjerne kontakt med noen av oss i Plan B Vineyard i Trondheim dersom du har noen spørsmål!
