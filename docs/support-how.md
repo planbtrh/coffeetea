@@ -11,6 +11,8 @@
 Contact
 [Yindee at FB](https://facebook.com/YindeeTH/)! Both bank transfer and paypal should be possible.
 
+*([Why support?](support.why.md))*
+
 ![[NO]](assets/norsk.png){: style="width: 32px"}
 
 ## Hvordan støtte?
@@ -24,3 +26,5 @@ Vil du støtte Yindee Coffee/ Rayong Vineyard generelt?
 * overføring i bank eller via paypal er mulig.
 * donasjoner kan også vippses til nr 131085, Plan B Arbeid Thailand
 * Skatteetaten har litt [info om gaver og fradrag](https://www.skatteetaten.no/satser/gaver-til-frivillige-organisasjoner/)
+
+*([Hvorfor støtte?](support.why.md))*

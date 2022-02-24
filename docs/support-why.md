@@ -11,6 +11,8 @@
 
 **You support community work in Rayong**, Thailand. Coffee roaster and pastor Jeff and his family [started Yindee Coffee Roaster and a café in 2012](https://yindee.no/index.php/about-yindee-coffee-roasters), aiming to both support coffee farmers in the north and support local the community in Rayong.
 
+*[How to support?](support-how.md)*
+
 ![[NO]](assets/norsk.png){: style="width: 32px"}
 
 ## Hvorfor støtte
@@ -18,3 +20,5 @@
 Støtte til Yindee Coffee/ Rayong Vineyard vil bidra til å støtte fattige i nord, trengende i Rayong, med mer.
 
 *(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*
+
+ *[Hvordan støtte?](support-how.md)*
