@@ -1,7 +1,9 @@
 
 *[planb.coffee](https://www.planb.coffee/)*
 
-![[EN]](assets/english.webp){: style="width: 32px"}
+![coffee beans](https://source.unsplash.com/all/?coffee-beans){: style="float: right; width: 100px; margin: 10px"}
+
+![[EN]](assets/english.webp){: style="width: 25px; height: 14px"}
 
 # Support the good work - how
 
@@ -13,18 +15,21 @@ Contact
 
 *([Why support?](support-why.md))*
 
-![[NO]](assets/norsk.png){: style="width: 32px"}
+![[NO]](assets/norsk.png){: style="width: 25px; height: 14px"}
 
 ## Hvordan støtte?
 
 Kjøp kaffe direkte fra Jeff/ Yindee: se [Yindee Coffee Roasters på FB](https://facebook.com/YindeeTH/).
 
 Har du fått kaffe via Plan B og vil støtte kaffearbeidet?
-  * du kan vippse et valgfritt beløp til nr 131086, Kaffe PLAN B
+  * du kan VIPPSe et valgfritt beløp til nr 131086, Kaffe PLAN B
 
 Vil du støtte Yindee Coffee/ Rayong Vineyard generelt?
 * overføring i bank eller via paypal er mulig.
-* donasjoner kan også vippses til nr 131085, Plan B Arbeid Thailand
+* donasjoner kan også VIPPSes til nr 131085, Plan B Arbeid Thailand
 * Skatteetaten har litt [info om gaver og fradrag](https://www.skatteetaten.no/satser/gaver-til-frivillige-organisasjoner/)
 
+---
 *([Hvorfor støtte?](support-why.md))*
+
+<small>*(Picture: random "coffee beans" image from Unsplash)*</small>

@@ -3,7 +3,7 @@
 
 ![flyer](flyer.png){: style="float: right; width: 300px; margin: 10px"}
 
-![[EN]](assets/english.webp){: style="width: 32px"}
+![[EN]](assets/english.webp){: style="width: 25px; height: 14px"}
 
 **You get [quality coffee and tea](https://yindee.no/index.php/garantied-best-quality)**, freshly harvested, [freshly roasted](https://yindee.no/index.php/thailand-coffee/16-the-benefits-of-fresh-roasted-coffee).
 
@@ -13,12 +13,14 @@
 
 *[How to support?](support-how.md)*
 
-![[NO]](assets/norsk.png){: style="width: 32px"}
+![[NO]](assets/norsk.png){: style="width: 25px; height: 14px"}
 
 ## Hvorfor støtte
 
 Støtte til Yindee Coffee/ Rayong Vineyard vil bidra til å støtte fattige i nord, trengende i Rayong, med mer.
 
-*(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*
+---
 
  *[Hvordan støtte?](support-how.md)*
+
+ <smaller>*(Bilde/ flyer - i hhv <a href="flyer.png">stort format</a> og <a href="flyer.pdf">PDF-format</a>)*</smaller>
