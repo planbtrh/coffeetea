@@ -5,7 +5,7 @@ description: Vil du støtte kjøp av større kaffebrenner som frigjør tid til d
 <em><smaller><a href="https://www.planb.coffee">planb.coffee</a></smaller></em>
 # Støtte kjøp av ny kaffebrenner?
 
-Yindee Coffee/ Rayong Vineyard har ikke som mål å tjene mest mulig penger. I korona-perioden har det blitt trangere økonomisk, men i det siste har omsetningen økt en del.
+Yindee Coffee/ Rayong Vineyard har ikke som mål å tjene mest mulig penger. I korona-perioden har det blitt trangere økonomisk, men i det siste har omsetningen blitt bedre.
 
 Det betyr at arbeidet med kaffen tar en del mer tid, men [Jeff og familien](https://yindee.no/index.php/about-yindee-coffee-roasters) ønsker heller mer tid til mennesker og frivillig arbeid i lokalsamfunnet.
 
