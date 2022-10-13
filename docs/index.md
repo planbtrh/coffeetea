@@ -15,7 +15,7 @@ Kaffe som er fersk på flere måter: Nylig høstet, fersk-brent, males opp selv.
 
 ## Tea Republic
 
-Flere typer løsblad-te tilgjengelig, inkludert grønn, svart, oolong.
+Flere typer løsblad-te tilgjengelig, inkludert grønn, svart og oolong.
 
 ---
 
