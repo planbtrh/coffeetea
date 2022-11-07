@@ -1,6 +1,6 @@
 # From Yindee
 
-![coffee beans](https://source.unsplash.com/all/?coffeebeans){: style="float: right; margin: 10px"}{: .bilde}
+![coffee beans](https://source.unsplash.com/all/?coffeebeans){: style="float: right; margin: 10px" .bilde}
 
 ![[EN]](assets/english.webp){: style="width: 25px; height: 14px"}
 
