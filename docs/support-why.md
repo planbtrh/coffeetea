@@ -17,7 +17,7 @@
 
 ## Hvorfor støtte
 
-Støtte til Yindee Coffee/ Rayong Vineyard vil bidra til å støtte fattige i nord, trengende i Rayong, frivillig arbeid i lokalsamfunnet med mer.
+Støtte til Yindee Coffee/ Rayong Vineyard bidrar til å støtte fattige i nord, trengende i Rayong, frivillig arbeid i lokalsamfunnet med mer.
 
 ---
 
