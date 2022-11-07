@@ -11,7 +11,13 @@ Fair tea and coffee from Thailand.
 
 ## Coffee Roasters
 
-Kaffe som er fersk på flere måter: Nylig høstet, fersk-brent, males opp selv. Ulike brent-grader tilgjengelig.
+Kaffe som er fersk på flere måter: 
+
+* Nylig høstet
+* fersk-brent
+* males opp selv. 
+
+Ulike brent-grader tilgjengelig.
 
 ## Tea Republic
 
