@@ -10,8 +10,12 @@
 * buy coffee or tea
 * donate
 
-Contact
-[Yindee at FB](https://facebook.com/YindeeTH/) - bank transfer and paypal are both possible.
+You can contact
+[Yindee at FB](https://facebook.com/YindeeTH/) - bank transfer is possible.
+
+In Norway, Vipps is possible, see below for details.
+
+in Sweden, Swish is available: 123 540 61 29 - mark with "Thai coffee"
 
 *([Why support?](support-why.md))*
 
@@ -22,11 +26,11 @@ Contact
 Kjøp kaffe direkte fra Jeff/ Yindee: se [Yindee Coffee Roasters på FB](https://facebook.com/YindeeTH/).
 
 Har du fått kaffe via Plan B og vil støtte kaffearbeidet?
-  * du kan VIPPSe et valgfritt beløp til nr 131086, Kaffe PLAN B
+  * du kan Vippse et valgfritt beløp til nr 131086, Kaffe PLAN B
 
 Vil du støtte Yindee Coffee/ Rayong Vineyard generelt?
-* overføring via bank eller via paypal er mulig
-* donasjoner kan også VIPPSes til nr 131085, Plan B Arbeid Thailand
+* overføring via bank er mulig
+* donasjoner kan også Vippses til nr 131085, Plan B Arbeid Thailand
 * Skatteetaten har litt [info om gaver og fradrag](https://www.skatteetaten.no/satser/gaver-til-frivillige-organisasjoner/)
 
 ---
