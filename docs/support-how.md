@@ -15,7 +15,7 @@ You can contact
 
 In Norway, Vipps is possible, see below for details.
 
-in Sweden, Swish is available: 123 540 61 29 - mark with "Thai coffee"
+in Sweden, Swish is available: 123 540 61 29 - mark with "Thai coffee".
 
 *([Why support?](support-why.md))*
 
